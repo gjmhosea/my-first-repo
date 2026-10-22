@@ -11,3 +11,5 @@ if __name__ == "__main__":
     print(greet("World"))
     print(farewell("World"))
     print(shout("World"))
+
+print("DEBUG: delete this to complete exercise 3!")
